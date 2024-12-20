@@ -1,3 +1,4 @@
+// page.tsx is the home page because it's at the root level
 import AcmeLogo from "@/app/ui/acme-logo";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
